@@ -1,4 +1,8 @@
+//QN: Object Creation,DEEP COPY VS SHALLOW COPY
+
 const  myobject = { id: 1, amount: 100}
+//
+
 const mycopiedObject= {...myobject}
 mycopiedObject.id = 2
 console.log("given and copy objects have diff property while changing only the copied objects propert");

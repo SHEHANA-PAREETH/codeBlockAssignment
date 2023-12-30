@@ -1,3 +1,5 @@
+//QN: calculate total tax paid and total amount paid using functions
+
 const transactions = [{id:1,
     base_amount:10,
 tax: "10%"},{

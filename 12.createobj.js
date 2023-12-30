@@ -1,3 +1,5 @@
+
+//Qn: Add Properties in JSON
 let myObj={}
 myObj.name="abc"
 myObj.age=10

@@ -1,3 +1,6 @@
+
+//QN: Iterate on JSON
+
 //create an object
 const myObject={
     name: 'abc',

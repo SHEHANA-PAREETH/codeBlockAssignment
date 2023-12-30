@@ -1,3 +1,6 @@
+//Qn : Delete Properties in JSON
+
+
 //create an object
 const myObj  = {
     name: "abc",
